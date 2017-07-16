@@ -1,3 +1,4 @@
+# add comments
 #coding=utf-8
 def translatefile(inputstring):
     gbk = inputstring.decode("UTF-8")
